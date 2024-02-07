@@ -13,3 +13,8 @@ In addition to predictive modeling, the project conducted comprehensive analyses
 To visualize the insights derived from the analysis, interactive dashboards and visualizations were created using Microsoft Power BI. These visualizations offered stakeholders a user-friendly platform to explore the data, uncover trends, and gain actionable insights. From heatmaps showcasing player performance to interactive charts illustrating team dynamics, the Power BI dashboards provided a comprehensive overview of FIFA World Cup data and analysis results.
 
 In conclusion, this data analysis project exemplifies the power of combining advanced statistical modeling techniques, data visualization tools, and domain expertise to derive actionable insights from complex datasets. By leveraging historical data and predictive modeling, the project offers valuable insights into the FIFA World Cup tournament, enabling stakeholders to make informed decisions and strategic choices in the realm of football.
+
+# DASHBOARD PREVIEW
+![Screenshot 2024-02-07 224218](https://github.com/Sniperex/FIFA_22_WINNER_PREDICTION/assets/52499633/ab418238-db5d-441b-94d4-e6cad29e930f)![Screenshot 2024-02-07 224302](https://github.com/Sniperex/FIFA_22_WINNER_PREDICTION/assets/52499633/0050b41d-3013-48f7-a760-e107b31fb521)
+
+
