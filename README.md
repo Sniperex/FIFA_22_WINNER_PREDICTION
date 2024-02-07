@@ -1,6 +1,6 @@
 # FIFA_22_WINNER_PREDICTION
 
-This data analysis project delves into the rich history of the FIFA World Cup from 1930 to 2018, utilizing web scraping techniques with the __Beautiful Soup__ library in Python to collect comprehensive data. The gathered data underwent meticulous cleaning to ensure accuracy and consistency, laying the foundation for insightful analysis.
+This data analysis project delves into the rich history of the FIFA World Cup from 1930 to 2018, utilizing web scraping techniques with the __Beautiful Soup__ library in Python to collect comprehensive data. The gathered data underwent meticulous cleaning to ensure accuracy and consistency, laying the foundation for insightful analysis and developing a model for predicting the winner of FIFA World cup 2022.
 
 The project's foundation lies in its data collection process, where web scraping techniques were employed to extract detailed information from various sources including official FIFA records, historical match reports, and player statistics databases. Utilizing Python's __Beautiful Soup__ library, the data extraction process was streamlined, allowing for the retrieval of comprehensive datasets spanning decades of FIFA World Cup history.
 
